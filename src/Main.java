@@ -12,6 +12,5 @@ public class Main {
     System.out.println(animal2.legs);
     animal.run();
     animal2.run();
-    ////////////////////////
   }
 }
