@@ -1,4 +1,4 @@
-package p02.variable;
+package p02_variable;
 // 변수
 public class Ex01Location {
   // 1. 변수의 선언 위치 : 전역, 지역

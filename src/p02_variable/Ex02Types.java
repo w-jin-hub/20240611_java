@@ -1,4 +1,4 @@
-package p02.variable;
+package p02_variable;
 
 import p01_class.Animal;
 
