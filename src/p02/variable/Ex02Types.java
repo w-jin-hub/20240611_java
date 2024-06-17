@@ -1,6 +1,5 @@
-package p02.varialbe;
+package p02.variable;
 
-import org.w3c.dom.ls.LSOutput;
 import p01_class.Animal;
 
 public class Ex02Types {
